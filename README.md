@@ -10,6 +10,7 @@ In Rhino command Line type `PackageManager`. Then Search for "Hops" and click in
 
 Using Repo file
 ---------------
-Look for File you want and click the link.
-
+Look for File you want to use. In this case Adder_hops.gh.
 ![Link](https://github.com/JackD-FP/GrasshopperScripts_FP/blob/main/readme%20files/Screenshot%202022-02-04%20094237.png?raw=true)
+
+Right click on `View raw` and copy link address.
