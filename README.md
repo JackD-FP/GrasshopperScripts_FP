@@ -13,4 +13,6 @@ Using Repo file
 Look for File you want to use. In this case Adder_hops.gh.
 ![Link](https://github.com/JackD-FP/GrasshopperScripts_FP/blob/main/readme%20files/Screenshot%202022-02-04%20094237.png?raw=true)
 
-Right click on `View raw` and copy link address.
+Right click on `View raw` and Copy Link Address.
+![Link](https://github.com/JackD-FP/GrasshopperScripts_FP/blob/main/readme%20files/Screenshot%202022-02-04%20095055.png)
+
