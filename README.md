@@ -19,3 +19,7 @@ Using Repo file
 #### In Grasshopper add a Hops component and paste the link address
 ![Link](https://github.com/JackD-FP/GrasshopperScripts_FP/blob/main/readme%20files/Artboard%201.jpg?raw=true)
 
+Hops Scripts Links and Description
+----------------------------------
+[Adder_hops.gh](https://github.com/JackD-FP/GrasshopperScripts_FP/blob/main/Adder_hops.gh?raw=true) - Example file tto create a Hops component and Github integration.
+
